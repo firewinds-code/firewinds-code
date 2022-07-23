@@ -73,6 +73,3 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github.com/firewinds-code/stats/blob/master/generated/overview.svg) -->
 
-Watch my contribution graph being eaten by a Snake! 🐍
-
-![snake gif](https://github.com/firewinds-code/firewinds-code/blob/output/github-contribution-grid-snake.gif)
