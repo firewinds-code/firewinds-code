@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firewinds-code&label=Profile%20views&color=0e75b6&style=flat" alt="firewinds-code" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Data Science along with Data Analytics and Machine Learnin.**
+- 🌱 I’m currently learning **I’m currently learning and Explorings the new domains of Technology.**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on work related my learning**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on work-related my learning**
 
 - 📫 How to reach me **ektamangal8076@gmail.com**
 
